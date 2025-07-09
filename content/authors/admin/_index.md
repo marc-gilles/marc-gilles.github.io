@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Marc Gilles
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ""
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Marc
+last_name: Gilles
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoc in Behavioural Ecology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -33,18 +33,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:your-email@example.com'
     label: E-mail Me
-  - icon: brands/x
+  - icon: brands/bluesky
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+#  - icon: academicons/orcid
+#    url: https://orcid.org/
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/
+#  - icon: brands/github
+#    url: https://github.com/gcushen
+#  - icon: brands/linkedin
+#    url: https://www.linkedin.com/
+#  - icon: academicons/google-scholar
+#    url: https://scholar.google.com/
+
 
 interests:
   - Artificial Intelligence
