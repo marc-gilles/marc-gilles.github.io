@@ -186,4 +186,4 @@ interests:
 
 ## About Me
 
-I am a behavioural ecologist investigating the role of odours and olfaction in birds. In partiular, I study whether birds use odours for inter- and intraspecific communication.To do so, I conduct chemical analyses, multivariate statistical analyses and behavioural experiments on different bird species (plovers, pied flycatchers, blue tits) in the wild.
+I am a behavioural ecologist investigating the role of odours and olfaction in birds. I study whether birds use odours for inter- and intraspecific communication by combining chemical analyses, multivariate statistical analyses and behavioural experiments on different bird species (plovers, pied flycatchers, blue tits) in the wild.
