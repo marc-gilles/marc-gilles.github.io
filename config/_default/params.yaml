@@ -5,8 +5,8 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: green
+  mode: dark
+  color: yellow
 
 # SEO
 marketing:
@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Marc Gilles. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
