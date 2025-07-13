@@ -6,7 +6,7 @@ tags:
 
 ---
 
-Effect of urbanisation on scent, physiology, size and colouration.
+Effect of urbanisation on scent, physiology, size and colouration
 
 <!--more-->
 

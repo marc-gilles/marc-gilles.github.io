@@ -5,7 +5,7 @@ tags:
   - Germany
 ---
 
-Nestbox monitoring.
+Nestbox monitoring
 
 <!--more-->
 
