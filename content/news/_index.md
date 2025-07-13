@@ -1,6 +1,6 @@
 ---
-title: Fieldwork
-summary: My adventures
+title: News
+summary:
 type: landing
 
 cascade:
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: fieldwork
+    id: news
     content:
-      title: Fieldwork
+      title: news
       filters:
         folders:
-          - fieldwork
+          - news
     design:
       view: article-grid
       columns: 3
