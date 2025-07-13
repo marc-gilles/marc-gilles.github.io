@@ -13,7 +13,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: news
+      title: News
       filters:
         folders:
           - news
