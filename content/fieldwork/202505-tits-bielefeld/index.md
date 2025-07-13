@@ -1,18 +1,15 @@
 ---
-title: Nestbox monitoring in Bielefeld
+title: Blue tits and great tits
 date: 2025-05-25
 tags:
-  - Great tits
-  - Blue tits
-  - Monitoring
-  - Fieldwork
+  - Germany
 ---
 
-Breeding monitoring of blue tits and great tits.
+Nestbox monitoring.
 
 <!--more-->
 
 I gave a hand to Barbara Caspers and Öncü Marci for the breeding monitoring of blue tits and great tits in Bielefeld. The aim of the study is to uncover the effect of urban noise of tits' physiology and microbiota.
 
-- Ringing
 - Morphometric measurements
+- Ringing
