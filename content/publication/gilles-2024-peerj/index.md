@@ -1,6 +1,6 @@
 ---
-title: No Sex Difference in Preen Oil Chemical Composition during Incubation in Kentish
-  Plovers
+title: No sex difference in preen oil chemical composition during incubation in Kentish
+  plovers
 authors:
 - Marc Gilles
 - András Kosztolányi
@@ -10,9 +10,6 @@ authors:
 - Barbara A. Caspers
 date: '2024-05-01'
 publishDate: '2025-07-09T19:39:21.793016Z'
-publication_types:
-- article-journal
-publication: '*PeerJ*'
 doi: 10.7717/peerj.17243
 
 # Include in featured publications

@@ -1,5 +1,5 @@
 ---
-title: Can Chicks Smell Their Parents? No Evidence of Olfactory Parent Recognition in a Shorebird
+title: Can chicks smell their parents? No evidence of olfactory parent recognition in a shorebird
 authors:
 - Marc Gilles
 - Sama Zefania
@@ -9,9 +9,6 @@ authors:
 - Barbara A. Caspers
 date: '2024-11-01'
 publishDate: '2025-07-09T19:39:21.800012Z'
-publication_types:
-- article-journal
-publication: '*Animal Behaviour*'
 doi: 10.1016/j.anbehav.2024.08.007
 
 # Include in featured publications
