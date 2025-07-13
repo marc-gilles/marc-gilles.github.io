@@ -1,5 +1,5 @@
 ---
-title: News
+title: Outreach
 summary:
 type: landing
 
@@ -11,12 +11,12 @@ cascade:
 
 sections:
   - block: collection
-    id: news
+    id: outreach
     content:
-      title: News
+      title: Outreach
       filters:
         folders:
-          - news
+          - outreach
     design:
       view: article-grid
       columns: 3
