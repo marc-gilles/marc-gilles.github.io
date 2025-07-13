@@ -28,6 +28,6 @@ main:
 #  - name: Teaching
 #    url: teaching/
 #    weight: 8
-  - name: Media & outreach
-    url: Media & outreach/
+  - name: Outreach
+    url: outreach/
     weight: 7
