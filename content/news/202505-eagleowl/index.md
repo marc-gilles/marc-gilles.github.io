@@ -1,8 +1,8 @@
 ---
 title: Ringing buzzard and eagle owl chicks
-date: 2025-06-25
+date: 2025-05-25
 tags:
-  - Germany
+  - Fieldwork
 ---
 
 A bit of extra fieldwork with the buzzard team (Nayden Chakarov & Tim Rapp)!
