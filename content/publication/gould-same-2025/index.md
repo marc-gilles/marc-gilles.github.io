@@ -1,0 +1,324 @@
+---
+title: 'Same data, different analysts: variation in effect sizes due to analytical
+  decisions in ecology and evolutionary biology'
+authors:
+- Elliot Gould
+- Hannah S. Fraser
+- Timothy H. Parker
+- Shinichi Nakagawa
+- Simon C. Griffith
+- Peter A. Vesk
+- Fiona Fidler
+- Daniel G. Hamilton
+- Robin N. Abbey-Lee
+- Jessica K. Abbott
+- Luis A. Aguirre
+- Carles Alcaraz
+- Irith Aloni
+- Drew Altschul
+- Kunal Arekar
+- Jeff W. Atkins
+- Joe Atkinson
+- Christopher M. Baker
+- Meghan Barrett
+- Kristian Bell
+- Suleiman Kehinde Bello
+- Iván Beltrán
+- Bernd J. Berauer
+- Michael Grant Bertram
+- Peter D. Billman
+- Charlie K. Blake
+- Shannon Blake
+- Louis Bliard
+- Andrea Bonisoli-Alquati
+- Timothée Bonnet
+- Camille Nina Marion Bordes
+- Aneesh P. H. Bose
+- Thomas Botterill-James
+- Melissa Anna Boyd
+- Sarah A. Boyle
+- Tom Bradfer-Lawrence
+- Jennifer Bradham
+- Jack A. Brand
+- Martin I. Brengdahl
+- Martin Bulla
+- Luc Bussière
+- Ettore Camerlenghi
+- Sara E. Campbell
+- Leonardo L. F. Campos
+- Anthony Caravaggi
+- Pedro Cardoso
+- Charles J. W. Carroll
+- Therese A. Catanach
+- Xuan Chen
+- Heung Ying Janet Chik
+- Emily Sarah Choy
+- Alec Philip Christie
+- Angela Chuang
+- Amanda J. Chunco
+- Bethany L. Clark
+- Andrea Contina
+- Garth A. Covernton
+- Murray P. Cox
+- Kimberly A. Cressman
+- Marco Crotti
+- Connor Davidson Crouch
+- Pietro B. D’Amelio
+- Alexandra Allison De Sousa
+- Timm Fabian Döbert
+- Ralph Dobler
+- Adam J. Dobson
+- Tim S. Doherty
+- Szymon Marian Drobniak
+- Alexandra Grace Duffy
+- Alison B. Duncan
+- Robert P. Dunn
+- Jamie Dunning
+- Trishna Dutta
+- Luke Eberhart-Hertel
+- Jared Alan Elmore
+- Mahmoud Medhat Elsherif
+- Holly M. English
+- David C. Ensminger
+- Ulrich Rainer Ernst
+- Stephen M. Ferguson
+- Esteban Fernandez-Juricic
+- Thalita Ferreira-Arruda
+- John Fieberg
+- Elizabeth A. Finch
+- Evan A. Fiorenza
+- David N. Fisher
+- Amélie Fontaine
+- Wolfgang Forstmeier
+- Yoan Fourcade
+- Graham S. Frank
+- Cathryn A. Freund
+- Eduardo Fuentes-Lillo
+- Sara L. Gandy
+- Dustin G. Gannon
+- Ana I. García-Cervigón
+- Alexis C. Garretson
+- Xuezhen Ge
+- William L. Geary
+- Charly Géron
+- Marc Gilles
+- Antje Girndt
+- Daniel Gliksman
+- Harrison B. Goldspiel
+- Dylan G. E. Gomes
+- Megan Kate Good
+- Sarah C. Goslee
+- J. Stephen Gosnell
+- Eliza M. Grames
+- Paolo Gratton
+- Nicholas M. Grebe
+- Skye M. Greenler
+- Maaike Griffioen
+- Daniel M. Griffith
+- Frances J. Griffith
+- Jake J. Grossman
+- Ali Güncan
+- Stef Haesen
+- James G. Hagan
+- Heather A. Hager
+- Jonathan Philo Harris
+- Natasha Dean Harrison
+- Sarah Syedia Hasnain
+- Justin Chase Havird
+- Andrew J. Heaton
+- María Laura Herrera-Chaustre
+- Tanner J. Howard
+- Bin-Yan Hsu
+- Fabiola Iannarilli
+- Esperanza C. Iranzo
+- Erik N. K. Iverson
+- Saheed Olaide Jimoh
+- Douglas H. Johnson
+- Martin Johnsson
+- Jesse Jorna
+- Tommaso Jucker
+- Martin Jung
+- Ineta Kačergytė
+- Oliver Kaltz
+- Alison Ke
+- Clint D. Kelly
+- Katharine Keogan
+- Friedrich Wolfgang Keppeler
+- Alexander K. Killion
+- Dongmin Kim
+- David P. Kochan
+- Peter Korsten
+- Shan Kothari
+- Jonas Kuppler
+- Jillian M. Kusch
+- Malgorzata Lagisz
+- Kristen Marianne Lalla
+- Daniel J. Larkin
+- Courtney L. Larson
+- Katherine S. Lauck
+- M. Elise Lauterbur
+- Alan Law
+- Don-Jean Léandri-Breton
+- Jonas J. Lembrechts
+- Kiara L’Herpiniere
+- Eva J. P. Lievens
+- Daniela Oliveira De Lima
+- Shane Lindsay
+- Martin Luquet
+- Ross MacLeod
+- Kirsty H. Macphie
+- Kit Magellan
+- Magdalena M. Mair
+- Lisa E. Malm
+- Stefano Mammola
+- Caitlin P. Mandeville
+- Michael Manhart
+- Laura Milena Manrique-Garzon
+- Elina Mäntylä
+- Philippe Marchand
+- Benjamin Michael Marshall
+- Charles A. Martin
+- Dominic Andreas Martin
+- Jake Mitchell Martin
+- April Robin Martinig
+- Erin S. McCallum
+- Mark McCauley
+- Sabrina M. McNew
+- Scott J. Meiners
+- Thomas Merkling
+- Marcus Michelangeli
+- Maria Moiron
+- Bruno Moreira
+- Jennifer Mortensen
+- Benjamin Mos
+- Taofeek Olatunbosun Muraina
+- Penelope Wrenn Murphy
+- Luca Nelli
+- Petri Niemelä
+- Josh Nightingale
+- Gustav Nilsonne
+- Sergio Nolazco
+- Sabine S. Nooten
+- Jessie Lanterman Novotny
+- Agnes Birgitta Olin
+- Chris L. Organ
+- Kate L. Ostevik
+- Facundo Xavier Palacio
+- Matthieu Paquet
+- Darren James Parker
+- David J. Pascall
+- Valerie J. Pasquarella
+- John Harold Paterson
+- Ana Payo-Payo
+- Karen Marie Pedersen
+- Grégoire Perez
+- Kayla I. Perry
+- Patrice Pottier
+- Michael J. Proulx
+- Raphaël Proulx
+- Jessica L Pruett
+- Veronarindra Ramananjato
+- Finaritra Tolotra Randimbiarison
+- Onja H. Razafindratsima
+- Diana J. Rennison
+- Federico Riva
+- Sepand Riyahi
+- Michael James Roast
+- Felipe Pereira Rocha
+- Dominique G. Roche
+- Cristian Román-Palacios
+- Michael S. Rosenberg
+- Jessica Ross
+- Freya E. Rowland
+- Deusdedith Rugemalila
+- Avery L. Russell
+- Suvi Ruuskanen
+- Patrick Saccone
+- Asaf Sadeh
+- Stephen M. Salazar
+- Kris Sales
+- Pablo Salmón
+- Alfredo Sánchez-Tójar
+- Leticia Pereira Santos
+- Francesca Santostefano
+- Hayden T. Schilling
+- Marcus Schmidt
+- Tim Schmoll
+- Adam C. Schneider
+- Allie E. Schrock
+- Julia Schroeder
+- Nicolas Schtickzelle
+- Nick L. Schultz
+- Drew A. Scott
+- Michael Peter Scroggie
+- Julie Teresa Shapiro
+- Nitika Sharma
+- Caroline L. Shearer
+- Diego Simón
+- Michael I. Sitvarin
+- Fabrício Luiz Skupien
+- Heather Lea Slinn
+- Grania Polly Smith
+- Jeremy A. Smith
+- Rahel Sollmann
+- Kaitlin Stack Whitney
+- Shannon Michael Still
+- Erica F. Stuber
+- Guy F. Sutton
+- Ben Swallow
+- Conor Claverie Taff
+- Elina Takola
+- Andrew J. Tanentzap
+- Rocío Tarjuelo
+- Richard J. Telford
+- Christopher J. Thawley
+- Hugo Thierry
+- Jacqueline Thomson
+- Svenja Tidau
+- Emily M. Tompkins
+- Claire Marie Tortorelli
+- Andrew Trlica
+- Biz R. Turnell
+- Lara Urban
+- Stijn Van De Vondel
+- Jessica Eva Megan Van Der Wal
+- Jens Van Eeckhoven
+- Francis Van Oordt
+- K. Michelle Vanderwel
+- Mark C. Vanderwel
+- Karen J. Vanderwolf
+- Juliana Vélez
+- Diana Carolina Vergara-Florez
+- Brian C. Verrelli
+- Marcus Vinícius Vieira
+- Nora Villamil
+- Valerio Vitali
+- Julien Vollering
+- Jeffrey Walker
+- Xanthe J. Walker
+- Jonathan A. Walter
+- Pawel Waryszak
+- Ryan J. Weaver
+- Ronja E. M. Wedegärtner
+- Daniel L. Weller
+- Shannon Whelan
+- Rachel Louise White
+- David William Wolfson
+- Andrew Wood
+- Scott W. Yanco
+- Jian D. L. Yen
+- Casey Youngflesh
+- Giacomo Zilio
+- Cédric Zimmer
+- Gregory Mark Zimmerman
+- Rachel A. Zitomer
+date: '2025-02-01'
+publishDate: '2025-07-13T12:47:53.564971Z'
+publication_types:
+- article-journal
+publication: '*BMC Biology*'
+doi: 10.1186/s12915-024-02101-x
+links:
+- name: URL
+  url: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-024-02101-x
+---
