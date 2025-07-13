@@ -186,4 +186,4 @@ interests:
 
 ## About Me
 
-I am a behavioural ecologist investigating chemical communication in birds. I study whether birds use odours for inter- and intraspecific communication using chemical analyses, multivariate statistical analyses and behavioural experiments in the wild.
+I am a behavioural ecologist investigating chemical communication in birds. I study whether birds use odours for inter- and intraspecific communication. To do so, I conduct chemical analyses, multivariate statistical analyses and behavioural experiments in the wild.
