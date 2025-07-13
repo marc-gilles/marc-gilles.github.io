@@ -24,7 +24,7 @@ role: Postdoc in Behavioural Ecology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Bielefeld University
+  - name: Bielefeld University, Germany
     url: https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/
 
 # Social network links
