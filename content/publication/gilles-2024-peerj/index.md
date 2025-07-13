@@ -8,7 +8,7 @@ authors:
 - Innes C. Cuthill
 - Tamás Székely
 - Barbara A. Caspers
-date: '2024-05-01'
+date: '2024-05-08'
 publishDate: '2025-07-09T19:39:21.793016Z'
 doi: 10.7717/peerj.17243
 
