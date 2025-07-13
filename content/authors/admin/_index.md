@@ -186,6 +186,6 @@ interests:
 
 ## About Me
 
-I am a behavioural and chemical ecologist with a particular interest in **chemical communication in birds**. My research combines chemical analyses, multivariate statistics and behavioural experiments to investigate whether and how birds use odours in various contexts, including mate choice, parent-offspring recognition, camouflage, and predator deterrence.
+I am a behavioural and chemical ecologist with a particular interest in chemical communication in birds. My research combines chemical analyses, multivariate statistics and behavioural experiments to investigate whether and how birds use odours in various contexts, including mate choice, parent-offspring recognition, camouflage, and predator deterrence.
 
 **I am currently searching for a postdoc position and for a host to apply for third-party funding!**
