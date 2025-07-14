@@ -3,11 +3,11 @@ title: No sex difference in preen oil chemical composition during incubation in 
   plovers
 authors:
 - Gilles, M.
-- András Kosztolányi
-- Afonso D. Rocha
-- Innes C. Cuthill
-- Tamás Székely
-- Barbara A. Caspers
+- Kosztolányi, A.
+- Rocha, A. D.
+- Cuthill, I. C. 
+- Székely, T.
+- Caspers, B. A.
 date: '2024-05-08'
 publishDate: '2025-07-09T19:39:21.793016Z'
 publication: '*PeerJ*'
