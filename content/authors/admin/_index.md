@@ -37,6 +37,8 @@ profiles:
     url: https://scholar.google.com/citations?user=VUGsNEAAAAAJ&hl=fr
   - icon: academicons/orcid
     url: https://orcid.org/0000-0003-4222-9754
+  - icon: academicons/researchgate
+    url: https://www.researchgate.net/profile/Marc-Gilles-2?ev=hdr_xprf
   - icon: brands/github
     url: https://github.com/marc-gilles
   - icon: brands/linkedin
