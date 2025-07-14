@@ -1,7 +1,7 @@
 ---
 title: The role of preen oil and body odour in birds
 authors:
-- Marc Gilles
+- Gilles, M.
 date: '2024-07-01'
 publishDate: '2025-07-09T19:39:21.793016Z'
 publication: '*PhD dissertation. Bielefeld Univerity*'
