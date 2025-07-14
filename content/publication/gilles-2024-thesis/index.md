@@ -4,6 +4,7 @@ authors:
 - Marc Gilles
 date: '2024-07-01'
 publishDate: '2025-07-09T19:39:21.793016Z'
+publication: '*PhD dissertation. Bielefeld Univerity*'
 doi: https://doi.org/10.4119/unibi/2993613
 
 # Include in featured publications

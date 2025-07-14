@@ -9,6 +9,7 @@ authors:
 - Barbara A. Caspers
 date: '2024-11-01'
 publishDate: '2025-07-09T19:39:21.800012Z'
+publication: '*Animal Behaviour*'
 doi: 10.1016/j.anbehav.2024.08.007
 
 # Include in featured publications
