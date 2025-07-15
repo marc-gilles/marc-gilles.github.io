@@ -1,8 +1,8 @@
 ---
 title: Olfactory camouflage and communication in birds
 authors:
-- Grieves, L. A.*
-- Gilles, M.*
+- Grieves, L. A.
+- Gilles, M.
 - Cuthill, I. C.
 - Székely T.
 - MacDougall-Shackleton, E. A.
