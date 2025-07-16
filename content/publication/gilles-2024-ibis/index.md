@@ -1,8 +1,8 @@
 ---
 title: Preen oil composition of Pied Flycatchers is similar between partners but differs between sexes and breeding stages
 authors:
-- Gilles, M.*
-- Fokkema, R. W.*
+- Gilles, M.
+- Fokkema, R. W.
 - Korsten, P.
 - Caspers, B. A.
 - Székely, T.
