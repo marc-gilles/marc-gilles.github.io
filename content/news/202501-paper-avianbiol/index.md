@@ -5,8 +5,6 @@ tags:
   - Publication
 ---
 
-Our study on the chemical signatures of pied flycatchers is out in Journal of Avian Biology! Congrats to Laurence for turning her Master thesis into a beautiful publication, well done! 
-
-Link to the paper: https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/jav.03365
+Our study on the chemical signatures of pied flycatchers is out in Journal of Avian Biology! Congrats to Laurence for turning her Master thesis into a beautiful publication, well done!
 
 <!--more-->
