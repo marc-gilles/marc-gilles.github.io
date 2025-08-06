@@ -1,6 +1,6 @@
 ---
-title: 'Chemical Signatures in the Preen Oil of Pied Flycatchers: Testing Reproducibility
-  and Exploring Ontogeny'
+title: 'Chemical signatures in the preen oil of Pied Flycatchers: Testing reproducibility
+  and exploring ontogeny'
 authors:
 - Jeanjean, L.
 - Caspers, B. A.
