@@ -15,7 +15,7 @@ publication: '*Biological Reviews*'
 doi: 10.1111/brv.12837
 
 # Include in featured publications
-featured: false
+featured: true
 
 tags:
   - 'Biological Reviews'
