@@ -5,7 +5,7 @@ authors:
 - Fokkema, R. W.
 - Korsten, P.
 - Caspers, B. A.
-- Székely, T.
+- Schmoll, T.
 date: '2024-01-01'
 publishDate: '2025-07-15T19:39:21.800012Z'
 publication: '*Ibis*'
@@ -22,8 +22,8 @@ abstract: Preen oil, the secretion of the uropygial gland, may be an important s
 
 # Links
 url_pdf: ''
-url_code: ''
-url_dataset: ''
+url_code: 'https://pub.uni-bielefeld.de/record/2965523'
+url_dataset: 'https://pub.uni-bielefeld.de/record/2965523'
 url_poster: ''
 url_project: ''
 url_slides: ''
