@@ -9,7 +9,7 @@ Nestbox monitoring
 
 <!--more-->
 
-I gave a hand to Barbara Caspers and Öncü Marci for the breeding monitoring of blue tits and great tits in Bielefeld. The aim of the study is to uncover the effect of urban noise of tits' physiology and microbiota.
+I gave a hand to Barbara Caspers and Öncü Marci for the breeding monitoring of blue tits and great tits in the Teutoburg forest in Bielefeld, Germany. The aim of the study is to uncover the effect of urban noise of tits' physiology and microbiota.
 
 - Morphometric measurements
 - Ringing
