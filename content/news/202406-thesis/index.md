@@ -1,5 +1,5 @@
 ---
-title: PhD thesis printed and defended!
+title: PhD thesis defended!
 date: 2025-01-30
 tags:
   - PhD thesis
