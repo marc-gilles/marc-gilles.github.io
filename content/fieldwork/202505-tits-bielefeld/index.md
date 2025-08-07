@@ -1,5 +1,5 @@
 ---
-title: Blue tits and great tits
+title: Blue and great tits
 date: 2025-05-25
 tags:
   - Germany
