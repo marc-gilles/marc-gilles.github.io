@@ -18,6 +18,6 @@ sections:
         folders:
           - news
     design:
-      view: article-grid
-      columns: 5
+      view: showcase
+      columns: 1
 ---
