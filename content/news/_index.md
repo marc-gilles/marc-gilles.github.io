@@ -19,7 +19,7 @@ sections:
       filters:
         folders:
           - news
-      count: 0 # how many posts (0 = all); does not seem to work
+      count: 0 # how many posts (0 = all)
     design:
       view: showcase
       columns: 1
