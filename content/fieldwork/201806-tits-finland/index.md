@@ -9,7 +9,7 @@ Personality and morphology
 
 <!--more-->
 
-In 2018, I conducted my MSc thesis with Jon Brommer and Barbara Class (University of Turku) in Finland. I studied the effect of early food conditions on the morphology and personality of blue tit nestlings.
+In spring 2018, I conducted my MSc thesis with Jon Brommer and Barbara Class (University of Turku) in Finland. I studied the effect of early food conditions on the morphology and personality of blue tit nestlings.
 
 - Breeding monitoring
 - Morhometric and personality measurements

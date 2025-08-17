@@ -9,7 +9,7 @@ Breeding monitoring
 
 <!--more-->
 
-In 2018, I assisted Martín Colombo and Luciano Segura (University of La Plata - CONICET) in their fieldwork on grassland birds (pipits spp., grassland sparrow, spotted nothura) in Argentina.
+In fall 2018, I assisted Martín Colombo and Luciano Segura (University of La Plata - CONICET) in their fieldwork on grassland birds (pipits spp., grassland sparrow, spotted nothura) in Argentina.
 
 - Nest searching
 - Breeding monitoring
