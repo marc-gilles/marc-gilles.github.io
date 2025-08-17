@@ -5,7 +5,7 @@ tags:
   - Argentina
 ---
 
-Breeding monitoring
+Nest searching & breeding monitoring
 
 <!--more-->
 
@@ -13,5 +13,5 @@ In fall 2018, I assisted Martín Colombo and Luciano Segura (University of La Pl
 
 - Nest searching
 - Breeding monitoring
-- Morhometric measurements
+- Morphometric measurements
 - Ringing

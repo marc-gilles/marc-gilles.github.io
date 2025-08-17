@@ -5,7 +5,7 @@ tags:
   - France
 ---
 
-Breeding monitoring, neophobia
+Neophobia experiment and breeding monitoring
 
 <!--more-->
 

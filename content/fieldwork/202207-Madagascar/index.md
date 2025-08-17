@@ -5,7 +5,7 @@ tags:
   - Madagascar
 ---
 
-Behavioural experiments and observations, odour and microbiota sampling, breeding monitoring
+Behavioural experiments and observations & sampling of odour and microbiota
 
 <!--more-->
 
