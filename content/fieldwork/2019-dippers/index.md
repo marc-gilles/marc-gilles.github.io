@@ -9,7 +9,7 @@ Neophobia experiment and breeding monitoring
 
 <!--more-->
 
-In spring 2019, I participated in the fieldwork on the white-throated dippers with Blandine Doliguez (University of Lyon - CNRS) in Chartreuse, France. We searched for nests, mistnetted adults, monitored nests and conducted a neophobia experiment.
+In spring 2019, I participated in the fieldwork on the white-throated dippers with Blandine Doliguez (University of Lyon - CNRS) in Chartreuse, France. We searched for nests, mistnetted adults, monitored nests and conducted neophobia experiments.
 
 - Nest searching
 - Capture
