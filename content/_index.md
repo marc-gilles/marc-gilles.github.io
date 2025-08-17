@@ -98,7 +98,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: showcase
+      view: card
      # Reduce spacing
       spacing:
         padding: ['20px', 0, '20px', 0]
