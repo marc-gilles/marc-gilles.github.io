@@ -9,7 +9,7 @@ Nestbox monitoring
 
 <!--more-->
 
-Three years (2021-2023) of breeding monitoring of pied flycatchers and great and blue tits in the Senne forest in Germany, together with Laura Schulte and Laurence Jeanjean.
+Three years (2021-2023) of breeding monitoring of pied flycatchers and great and blue tits in the Senne forest in Germany, together with Laura Schulte and Laurence Jeanjean (Bielefeld University).
 
 - Morphometric measurements
 - Ringing
