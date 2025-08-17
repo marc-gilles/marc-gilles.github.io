@@ -82,7 +82,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: news
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
@@ -98,10 +98,10 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: showcase
      # Reduce spacing
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: [20, 0, 20, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
