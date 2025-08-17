@@ -21,8 +21,8 @@ sections:
           - news
       count: 0 # how many posts are displayed (0 = all)
     design:
-      view: showcase # style of posts (others are: citation, article-grid, compact, card)
-      flip_alt_rows: true # for the Showcase view, flip alternate rows
+      view: card # style of posts (others are: citation, article-grid, compact, card)
+      # flip_alt_rows: true # for the Showcase view, flip alternate rows
       columns: 1
       # spacing between sections
       padding: ['0', '0', '0', '0'] # standard
