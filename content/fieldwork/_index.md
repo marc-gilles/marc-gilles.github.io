@@ -17,6 +17,7 @@ sections:
       filters:
         folders:
           - fieldwork
+      count: 0 # how many posts are displayed (0 = all)
     design:
       view: article-grid
       columns: 3
