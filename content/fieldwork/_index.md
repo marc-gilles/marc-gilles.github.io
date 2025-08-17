@@ -1,6 +1,6 @@
 ---
 title: Fieldwork
-summary: My adventures
+summary: 
 type: landing
 
 cascade:

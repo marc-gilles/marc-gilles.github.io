@@ -20,4 +20,5 @@ sections:
     design:
       view: showcase
       columns: 1
+      padding: ['20px', '0', '20px', '0']
 ---
