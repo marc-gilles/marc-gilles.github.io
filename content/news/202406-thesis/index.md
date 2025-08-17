@@ -5,6 +5,6 @@ tags:
   - PhD thesis
 ---
 
-This wonderful PhD journey has finally come to an end! Thanks to Barbara Caspers (best supervior), all my collaborators, the defense committee, and all my friends and colleagues at the VHF in Bielefeld.
+This wonderful PhD journey has come to an end! Thanks to Barbara Caspers (best supervior), all my collaborators, the defense committee, and all my friends and colleagues at the VHF in Bielefeld.
 
 <!--more-->
