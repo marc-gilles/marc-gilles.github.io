@@ -22,4 +22,6 @@ sections:
       columns: 1
       # spacing
       padding: ['0', '0', '0', '0']
+    # Choose how many pages you would like to display (0 = all pages)
+    count: 0
 ---
