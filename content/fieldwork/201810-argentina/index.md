@@ -5,7 +5,7 @@ tags:
   - Argentina
 ---
 
-Nest searching & breeding monitoring
+Nest searching and breeding monitoring
 
 <!--more-->
 
