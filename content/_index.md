@@ -99,9 +99,6 @@ sections:
     design:
       # Choose a layout view
       view: card
-     # Reduce spacing
-      spacing:
-        padding: ['20px', 0, '20px', 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
