@@ -98,7 +98,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: article-grid
+      view: compact
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
