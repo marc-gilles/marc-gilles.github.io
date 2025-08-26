@@ -23,7 +23,7 @@ sections:
     design:
       view: article-grid # style of posts (others are: citation, article-grid, compact, card)
       # flip_alt_rows: true # for the Showcase view, flip alternate rows
-      columns: 3
+      columns: 1
     
     
 ---
