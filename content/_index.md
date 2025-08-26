@@ -98,7 +98,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: article-grid
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
