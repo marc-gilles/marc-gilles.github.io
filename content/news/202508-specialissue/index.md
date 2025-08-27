@@ -5,7 +5,7 @@ tags:
   - Editor
 ---
 
-The special issue on "Chemical Communication and Behaviour", co-edited with Leanne Grieves, Tyler Buchinger and Alex Van Huynh, is now complete in *Animal Behaviour*.
+The special issue on "Chemical Communication and Behaviour", edited by Leanne Grieves, Tyler Buchinger, Alex Van Huynh and myself, is now complete in *Animal Behaviour*.
 
 <!--more-->
 
