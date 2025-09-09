@@ -1,5 +1,5 @@
 ---
-title: Talk at the DEPE-CNRS in Strasbourg
+title: Talk at DEPE-CNRS in Strasbourg
 date: 2025-09-09
 tags:
   - Invited talk
