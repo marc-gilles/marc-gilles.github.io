@@ -5,7 +5,7 @@ tags:
   - Fieldwork
 ---
 
-Three weeks of fantastic lizard fieldwork! With Isabel, Laurence and Sean, we captured and sampled 250 lizards from both urban and wild locations in Croatia. 
+Three weeks of fantastic lizard fieldwork with Isabel Damas Moreira! We captured and sampled 250 lizards from both urban and wild locations in Croatia. 
 
 <!--more-->
 
