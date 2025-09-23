@@ -3,7 +3,7 @@ title: News
 summary:
 type: landing
 # Choose how many pages you would like to display (0 = all pages)
-count: 0 # does not seem to work
+count: 8 # does not seem to work
 
 cascade:
   - _target:
