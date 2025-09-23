@@ -19,7 +19,7 @@ sections:
       filters:
         folders:
           - news
-      count: 0 # how many posts are displayed (0 = all)
+      count: 8 # how many posts are displayed (0 = all)
     design:
       view: compact # style of posts (others are: citation, article-grid, compact, card)
       # flip_alt_rows: true # for the Showcase view, flip alternate rows
