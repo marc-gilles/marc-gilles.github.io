@@ -5,7 +5,7 @@ tags:
   - Publication
 ---
 
-During the conference Behaviour 2023 organised in Bielefeld, we conducted a study on Equity, Diversity and Inclusivity (EDI). This important work was lead by Rebecca Chen and many colleagues contributed. Now out in Ecology & Evolution.
+During the conference Behaviour 2023 organised in Bielefeld, we conducted a study on **Equity, Diversity and Inclusivity (EDI)**. This important work was lead by Rebecca Chen, and many colleagues contributed. Now out in *Ecology & Evolution*.
 
 <!--more-->
 
