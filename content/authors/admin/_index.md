@@ -57,8 +57,8 @@ interests:
 
 
 education:
-  - area: PhD in Avian Behavioural and Chemical Ecology
-    institution: Bielefeld University
+  - area: PhD Avian Behavioural and Chemical Ecology
+    institution: Bielefeld University, Germany
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |
@@ -67,22 +67,23 @@ education:
       text: 'Read Thesis'
       url: 'https://www.researchgate.net/publication/387860660_The_role_of_preen_oil_and_body_odour_in_birds'
   - area: MSc Ecology Ecophysiology Ethology
-    institution: University of Strasbourg
+    institution: University of Strasbourg, France
     date_start: 2016-09-01
-    date_end: 2020-12-31
+    date_end: 2018-06-15
     summary: |
-      MSc thesis on *The effect of early food availlability on morphology and personality in blue tit fledglings*. Supervised by [Jon Brommer] (https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class] (https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology] (https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland. 
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      MSc thesis on *The effect of early food availlability on morphology and personality in blue tit fledglings*. Supervised by [Jon Brommer] (https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class] (https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology] (https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
+  - area: BSc Behaviour Ecology Evolution
+    institution: University of Bergen, Norway
+    date_start: 2015-09-01
+    date_end: 2016-06-15
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Exchange (Erasmus) year.
+  - area: BSc Animal Biology
+    institution: University of Caen Normandie, France
+    date_start: 2013-09-01
+    date_end: 2016-06-15
+    summary: |
+
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
