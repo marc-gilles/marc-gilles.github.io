@@ -64,7 +64,7 @@ education:
     summary: |
       PhD thesis on *The role of preen oil and body odour in birds*. Supervised by [Barbara Caspers](https://scholar.google.com/citations?user=qPjDrIMAAAAJ&hl=fr&oi=ao) and [Innes Cuthill](https://scholar.google.com/citations?user=BD03F2cAAAAJ&hl=fr&oi=ao) at the [Department of Behavioural Ecology](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/).
     button:
-      text: 'Read Thesis'
+      text: 'Read PhD thesis'
       url: 'https://www.researchgate.net/publication/387860660_The_role_of_preen_oil_and_body_odour_in_birds'
   - area: MSc Ecology Ecophysiology Ethology
     institution: University of Strasbourg, France
