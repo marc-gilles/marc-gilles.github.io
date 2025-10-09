@@ -10,6 +10,12 @@ design:
 
 # Page sections
 sections:
+  - block: resume-education
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
   - block: resume-experience
     content:
       username: admin
