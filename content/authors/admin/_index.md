@@ -75,12 +75,10 @@ education:
     institution: University of Bergen, Norway
     date_start: 2015-09-01
     date_end: 2016-06-15
-    summary: |
   - area: BSc Animal Biology
     institution: University of Caen Normandie, France
     date_start: 2013-09-01
     date_end: 2016-06-15
-    summary: |
 
 #work:
 #  - position: Director of Cloud Infrastructure
