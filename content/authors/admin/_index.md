@@ -56,38 +56,33 @@ interests:
   - Ornithology
 
 
-#education:
-#  - area: PhD Artificial Intelligence
-#    institution: Stanford University
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 #Springer journals.
-#    button:
-#      text: 'Read Thesis'
-#      url: 'https://example.com'
-#  - area: MEng Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.8/4.0
-#
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - area: BSc Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      GPA: 3.4/4.0
-#      
-#      Courses included:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+education:
+  - area: PhD in Avian Behavioural and Chemical Ecology
+    institution: Bielefeld University
+    date_start: 2019-09-01
+    date_end: 2024-06-01
+    summary: |
+      PhD thesis on *The role of preen oil and body odour in birds*. Supervised by [Barbara Caspers](https://scholar.google.com/citations?user=qPjDrIMAAAAJ&hl=fr&oi=ao) and [Innes Cuthill] (https://scholar.google.com/citations?user=BD03F2cAAAAJ&hl=fr&oi=ao) at the [Department of Behavioural Ecology] (https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/).
+    button:
+      text: 'Read Thesis'
+      url: 'https://www.researchgate.net/publication/387860660_The_role_of_preen_oil_and_body_odour_in_birds'
+  - area: MSc Ecology Ecophysiology Ethology
+    institution: University of Strasbourg
+    date_start: 2016-09-01
+    date_end: 2020-12-31
+    summary: |
+      MSc thesis on *The effect of early food availlability on morphology and personality in blue tit fledglings*. Supervised by [Jon Brommer] (https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class] (https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology] (https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland. 
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #work:
 #  - position: Director of Cloud Infrastructure
 #    company_name: GenCoin
