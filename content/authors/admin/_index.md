@@ -57,7 +57,7 @@ interests:
 
 
 education:
-  - area: PhD Avian Behavioural and Chemical Ecology
+  - area: PhD Behavioural and Chemical Ecology
     institution: Bielefeld University, Germany
     date_start: 2019-09-01
     date_end: 2024-06-01
