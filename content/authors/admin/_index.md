@@ -55,7 +55,6 @@ interests:
   - Multivariate analyses
   - Ornithology
 
-
 education:
   - area: PhD Behavioural and Chemical Ecology
     institution: Bielefeld University, Germany
