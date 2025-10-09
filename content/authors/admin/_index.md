@@ -62,7 +62,7 @@ education:
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |
-      PhD thesis on *The role of preen oil and body odour in birds*. Supervised by [Barbara Caspers](https://scholar.google.com/citations?user=qPjDrIMAAAAJ&hl=fr&oi=ao) and [Innes Cuthill] (https://scholar.google.com/citations?user=BD03F2cAAAAJ&hl=fr&oi=ao) at the [Department of Behavioural Ecology] (https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/).
+      PhD thesis on *The role of preen oil and body odour in birds*. Supervised by [Barbara Caspers](https://scholar.google.com/citations?user=qPjDrIMAAAAJ&hl=fr&oi=ao) and [Innes Cuthill](https://scholar.google.com/citations?user=BD03F2cAAAAJ&hl=fr&oi=ao) at the [Department of Behavioural Ecology](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/).
     button:
       text: 'Read Thesis'
       url: 'https://www.researchgate.net/publication/387860660_The_role_of_preen_oil_and_body_odour_in_birds'
@@ -71,13 +71,12 @@ education:
     date_start: 2016-09-01
     date_end: 2018-06-15
     summary: |
-      MSc thesis on *The effect of early food availlability on morphology and personality in blue tit fledglings*. Supervised by [Jon Brommer] (https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class] (https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology] (https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
-  - area: BSc Behaviour Ecology Evolution
+      MSc thesis on *The effect of early food availlability on morphology and personality in blue tit fledglings*. Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
+  - area: BSc Behaviour Ecology Evolution (Erasmus)
     institution: University of Bergen, Norway
     date_start: 2015-09-01
     date_end: 2016-06-15
     summary: |
-      Exchange (Erasmus) year.
   - area: BSc Animal Biology
     institution: University of Caen Normandie, France
     date_start: 2013-09-01
