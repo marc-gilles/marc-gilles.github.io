@@ -80,7 +80,7 @@ work:
   - position: Postdoc 
     company_name: Bielefeld University, Germany
     company_url: ''
-    company_logo: 'icon.png'
+    company_logo: 'icon'
     date_start: 2025-03-01
     date_end: 2026-02-28
     summary: |
