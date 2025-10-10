@@ -81,7 +81,7 @@ work:
   - position: PhD project
     company_name: Bielefeld University, Germany
     company_url: ''
-    company_logo: ''
+    company_logo: 'unibielefeld'
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |
@@ -92,7 +92,7 @@ work:
   - position: MSc project
     company_name: University of Turku, Finland
     company_url: ''
-    company_logo: ''
+    company_logo: 'uniturku'
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |2-
