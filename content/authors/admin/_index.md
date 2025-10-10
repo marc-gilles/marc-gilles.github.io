@@ -109,11 +109,11 @@ skills:
       - name: Species identification
         description: ''
         percent: 80
-        icon: unibielefeld
+        icon: circle-stack
       - name: Nest searching
         description: ''
         percent: 100
-        icon: bird
+        icon: circle-stack
       - name: Capture
         description: 'Mistnet, spring trap, walk-in trap'
         percent: 40
