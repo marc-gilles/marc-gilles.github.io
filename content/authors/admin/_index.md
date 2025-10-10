@@ -78,10 +78,12 @@ work:
     company_logo: 'unibielefeld'
     date_start: 2025-03-01
     date_end: 2026-02-28
+    summary: |
+      Preparing manuscripts and grant proposals in avian chemical ecology. Supervised by [Barbara Caspers](https://scholar.google.com/citations?user=qPjDrIMAAAAJ&hl=fr&oi=ao) at the [Department of Behavioural Ecology](https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/).
   - position: PhD project
     company_name: Bielefeld University, Germany
     company_url: ''
-    company_logo: 'unibielefeld'
+    company_logo: 'unibielefeld.svg'
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |
@@ -92,7 +94,7 @@ work:
   - position: MSc project
     company_name: University of Turku, Finland
     company_url: ''
-    company_logo: 'uniturku'
+    company_logo: 'uniturku.svg'
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |2-
