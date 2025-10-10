@@ -96,7 +96,7 @@ work:
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |2-
-      MSc thesis on *The effect of early food availlability on morphology and personality in blue tits*.Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
+      MSc thesis on *The effect of early food availlability on morphology and personality in blue tits*. Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
       
 
 ## Skills
