@@ -113,13 +113,13 @@ skills:
       - name: Nest searching
         description: ''
         percent: 100
-        icon: chart-bar
+        icon: bird
       - name: Capture
         description: 'Mistnet, spring trap, walk-in trap'
         percent: 40
         icon: circle-stack
       - name: Ringing and sampling
-        description: 'Blood, preen oil, faeces'
+        description: 'Blood, odour, preen oil, faeces'
         percent: 40
         icon: circle-stack
 
@@ -127,18 +127,32 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Solvent extraction
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: chart-bar
+      - name: GC-MS & GC-FID
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: chart-bar
+
+  - name: Statistical analyses
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Mutlivariate analyses
+        description: 'PERMANOVA, RDA, PCA'
+        percent: 60
+        icon: chart-bar
+      - name: Mixed models
         description: ''
-        percent: 80
-        icon: camera
+        percent: 100
+        icon: chart-bar
+      - name: Bayesian approaches
+        description: ''
+        percent: 100
+        icon: chart-bar
+
 
 languages:
   - name: English
