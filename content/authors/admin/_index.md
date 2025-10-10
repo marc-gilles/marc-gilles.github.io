@@ -103,46 +103,53 @@ work:
 
 ## Skills
 ## Add your own SVG icons to `assets/media/icons/`
-#skills:
-#  - name: Technical Skills
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: code-bracket
-#      - name: Data Science
-#        description: ''
-#        percent: 100
-#        icon: chart-bar
-#      - name: SQL
-#        description: ''
-#        percent: 40
-#        icon: circle-stack
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-simple-walk
-#      - name: Cats
-#        description: ''
-#        percent: 100
-#        icon: cat
-#      - name: Photography
-#        description: ''
-#        percent: 80
-#        icon: camera
-#
-#languages:
-#  - name: English
-#    percent: 100
-#  - name: Chinese
-#    percent: 75
-#  - name: Portuguese
-#    percent: 25
-#
+skills:
+  - name: Ornithology
+    items:
+      - name: Species identification
+        description: ''
+        percent: 80
+        icon: unibielefeld
+      - name: Nest searching
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: Capture
+        description: 'Mistnet, spring trap, walk-in trap'
+        percent: 40
+        icon: circle-stack
+      - name: Ringing and sampling
+        description: 'Blood, preen oil, faeces'
+        percent: 40
+        icon: circle-stack
+
+  - name: Chemical analyses
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: English
+    percent: 100
+  - name: French
+    percent: 100
+  - name: German
+    percent: 85
+  - name: Spanish
+    percent: 75
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
