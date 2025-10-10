@@ -90,7 +90,7 @@ work:
       text: 'Read PhD thesis'
       url: 'https://www.researchgate.net/publication/387860660_The_role_of_preen_oil_and_body_odour_in_birds'
   - position: MSc project
-    company_name: Bielefeld University, Germany
+    company_name: University of Turku, Finland
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
