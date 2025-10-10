@@ -10,8 +10,8 @@ first_name: Marc
 last_name: Gilles
 
 # Status emoji
-status:
-  icon: ""
+#status:
+#  icon: ""
 
 # Is this the primary user of the site?
 superuser: true
@@ -76,30 +76,26 @@ education:
     date_start: 2013-09-01
     date_end: 2016-06-15
 
-#work:
-#  - position: Director of Cloud Infrastructure
-#    company_name: GenCoin
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2021-01-01
-#    date_end: ''
-#    summary: |2-
-#      Responsibilities include:
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#  - position: Backend Software Engineer
-#    company_name: X
-#    company_url: ''
-#    company_logo: ''
-#    date_start: 2016-01-01
-#    date_end: 2020-12-31
-#    summary: |
-#      Responsibilities include:
-#      - Migrated infrastructure to a new data center
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#
+work:
+  - position: Postdoc 
+    company_name: Bielefeld University, Germany
+    company_url: ''
+    company_logo: 'icon.png'
+    date_start: 2025-03-01
+    date_end: 2026-02-28
+    summary: |
+  - position: Backend Software Engineer
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
 ## Skills
 ## Add your own SVG icons to `assets/media/icons/`
 #skills:
