@@ -77,15 +77,13 @@ education:
     date_end: 2016-06-15
 
 work:
-  - position: Postdoc
+  - position: Postdoc - Bielefeld Young Researchers Fund Bridge Scholarship
     company_name: Bielefeld University, Germany
     company_url: 'https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/'
     company_logo: 'unibielefeld'
     date_start: 2025-03-01
     date_end: 2026-02-28
-    summary: |
-      Bielefeld Young Researchers Fund - Bridge Scholarship
-  - position: Backend Software Engineer
+  - position: PhD
     company_name: X
     company_url: ''
     company_logo: ''
