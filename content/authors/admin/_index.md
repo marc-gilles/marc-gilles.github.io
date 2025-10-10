@@ -153,6 +153,16 @@ skills:
         percent: 100
         icon: chart-bar
 
+#languages:
+#  - name: English
+#    percent: 100
+#  - name: French
+#    percent: 100
+#  - name: German
+#    percent: 85
+#  - name: Spanish
+#    percent: 75
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
