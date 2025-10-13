@@ -4,7 +4,7 @@ date: 2025-10-09
 type: landing
 
 design:
-  spacing: '6rem'
+  spacing: '5rem'
 
 # Note: `username` refers to the user's folder name in `content/authors/`
 
@@ -23,6 +23,7 @@ sections:
     content:
       title: Skills
       username: admin
+      columns: '3'
     design:
       show_skill_percentage: false
   - block: resume-awards
