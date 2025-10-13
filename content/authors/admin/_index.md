@@ -110,7 +110,7 @@ skills:
     items:
       - name: Species identification
         description: ''
-        icon: github.com/hugomods/icons/vendors/feather
+        icon: uniturku
       - name: Nest searching
         description: ''
         icon: vendors/feather
