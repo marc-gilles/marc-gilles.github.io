@@ -98,7 +98,7 @@ work:
     date_start: 2019-09-01
     date_end: 2024-06-01
     summary: |2-
-      MSc thesis on *The effect of early food availlability on morphology and personality in blue tits*. Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact) at University of Turku, Finland.
+      MSc thesis on *The effect of early food availlability on morphology and personality in blue tits*. Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact).
       
 
 ## Skills
@@ -109,24 +109,21 @@ skills:
       - name: Species identification
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: vendors/feather
       - name: Nest searching
         description: ''
         percent: 100
-        icon: circle-stack
-      - name: Capture
-        description: 'Mistnet, spring trap, walk-in trap'
+        icon: vendors/feather
+      - name: Capture, ringing & sampling
+        description: 'Mistnetting, morphometric measurements, blood sampling'
         percent: 40
-        icon: circle-stack
-      - name: Ringing and sampling
-        description: 'Blood, odour, preen oil, faeces'
-        percent: 40
-        icon: circle-stack
-
+        icon: vendors/feather
   - name: Chemical analyses
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
+      - name: Odour sampling
+        description: ''
+        percent: 40
+        icon: circle-stack
       - name: Solvent extraction
         description: ''
         percent: 60
@@ -137,8 +134,6 @@ skills:
         icon: chart-bar
 
   - name: Statistical analyses
-    color: '#eeac02'
-    color_border: '#f0bf23'
     items:
       - name: Mutlivariate analyses
         description: 'PERMANOVA, RDA, PCA'
