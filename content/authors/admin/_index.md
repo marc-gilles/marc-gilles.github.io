@@ -100,7 +100,6 @@ work:
     summary: |2-
       MSc thesis on *The effect of early food availlability on morphology and personality in blue tits*. Supervised by [Jon Brommer](https://scholar.google.com/citations?user=YCAmA6QAAAAJ&hl=fr&oi=ao) and [Barbara Class](https://scholar.google.com/citations?user=W3l0KMEAAAAJ&hl=fr&oi=ao) at the [Department of Biology](https://www.utu.fi/en/university/faculty-of-science/biology/contact).
       
-
 ## Skills
 ## Add your own SVG icons to `assets/media/icons/`
 skills:
@@ -193,10 +192,14 @@ awards:
     url: 
     date: '2021-01-01'
     awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
-  - title: Best talk • EthoGes 2020 
+  - title: Best talk
     url: 
-    date: '2021-01-01'
-    awarder: German Ethological Society / Tübingen, Germany
+    date: '2020-02-01'
+    awarder: EthoGes 2020 (German Ethological Society), Tübingen, Germany
+  - title: Best talk
+    url: 
+    date: '2018-07-01'
+    awarder: International Student Course in Behavioural Biology 2018 (Institut Francilien d’Ethologie), Paris, France
 
 ---
 
