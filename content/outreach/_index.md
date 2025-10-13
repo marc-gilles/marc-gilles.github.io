@@ -18,6 +18,6 @@ sections:
         folders:
           - outreach
     design:
-      view: card
+      view: compact
       columns: 1
 ---
