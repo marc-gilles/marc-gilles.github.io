@@ -109,7 +109,7 @@ skills:
       - name: Species identification
         description: ''
         percent: 80
-        icon: vendors/feather
+        icon: github.com/hugomods/icons/vendors/feather
       - name: Nest searching
         description: ''
         percent: 100
