@@ -166,7 +166,6 @@ skills:
         percent: 60
         icon: chart-bar
 
-
 #languages:
 #  - name: English
 #    percent: 100
@@ -184,17 +183,17 @@ skills:
 awards:
   - title: Best talk
     url: 
-    date: '2023'
+    date: '2023-08-01'
     awarder: Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
     icon: 
   - title: Best talk
     url: 
-    date: '2022'
+    date: '2022-08-01'
     awarder: DZG 2022 (German Zoological Society), Bonn, Germany
     icon: 
   - title: People's choice video
     url: 
-    date: '2021'
+    date: '2021-08-01'
     awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
     icon: 
 
