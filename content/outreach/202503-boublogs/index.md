@@ -5,5 +5,5 @@ tags:
   - Media
 ---
 
-Check out my blogs articles on the [BOU blog](https://bou.org.uk/author/marc-gilles/)
+Check out the blogs articles I wrote for the [BOU blog](https://bou.org.uk/author/marc-gilles/)
 <!--more-->

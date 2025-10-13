@@ -23,7 +23,7 @@ sections:
     content:
       title: Skills
       username: admin
-      columns: 2
+      columns: '3'
     design:
       show_skill_percentage: false
   - block: resume-awards
