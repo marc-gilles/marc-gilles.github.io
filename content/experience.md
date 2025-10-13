@@ -26,6 +26,7 @@ sections:
       columns: '3'
     design:
       show_skill_percentage: false
+      columns: 3
   - block: resume-awards
     content:
       title: Grants & Awards
