@@ -107,53 +107,42 @@ skills:
     items:
       - name: Species identification
         description: ''
-        percent: 80
         icon: github.com/hugomods/icons/vendors/feather
       - name: Nest searching
         description: ''
-        percent: 100
         icon: vendors/feather
       - name: Capture, ringing & sampling
         description: 'Mistnetting, morphometric measurements, blood sampling'
-        percent: 40
         icon: vendors/feather
   - name: Chemical analyses
     items:
       - name: Odour sampling
         description: 'Preen oil, whole-body'
-        percent: 40
         icon: circle-stack
       - name: Solvent extraction
         description: ''
-        percent: 60
         icon: chart-bar
       - name: GC-MS & GC-FID
         description: ''
-        percent: 100
         icon: chart-bar
   - name: Statistical analyses
     items:
       - name: Mutlivariate analyses
         description: 'PERMANOVA, RDA, PCA'
-        percent: 60
         icon: chart-bar
       - name: Mixed models
         description: ''
-        percent: 100
         icon: chart-bar
       - name: Bayesian approaches
         description: ''
-        percent: 100
         icon: chart-bar
   - name: Science communication
     items:
       - name: Scientific illustration
         description: 'Adobe Illustrator'
-        percent: 60
         icon: chart-bar
       - name: Blog writing
         description: ''
-        percent: 60
         icon: chart-bar
   - name: Project management
     items:
@@ -162,7 +151,6 @@ skills:
         icon: chart-bar
       - name: Coordination of fieldwork in remote locations
         description: ''
-        percent: 60
         icon: chart-bar
 
 #languages:
@@ -180,24 +168,19 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best talk award
-    url: 
+  - title: Best talk
     date: '2023-08-01'
     awarder: Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
-  - title: Best talk award
-    url: 
+  - title: Best talk
     date: '2022-09-01'
     awarder: DZG 2022 (German Zoological Society), Bonn, Germany
-  - title: People's choice video award
-    url: 
+  - title: People's choice video
     date: '2021-01-01'
     awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
   - title: Best talk
-    url: 
     date: '2020-02-01'
     awarder: EthoGes 2020 (German Ethological Society), Tübingen, Germany
   - title: Best talk
-    url: 
     date: '2018-07-01'
     awarder: International Student Course in Behavioural Biology 2018 (Institut Francilien d’Ethologie), Paris, France
 
