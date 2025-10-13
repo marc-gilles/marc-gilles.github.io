@@ -9,6 +9,9 @@ name_pronunciation: ""
 first_name: Marc
 last_name: Gilles
 
+# Pronouns (optional)
+pronouns: he/him
+
 # Status emoji
 #status:
 #  icon: ""
