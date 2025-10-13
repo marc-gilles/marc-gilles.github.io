@@ -30,6 +30,10 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: resume-awards
+    content:
+      title: Grants
+      username: admin
 #  - block: resume-languages
 #    content:
 #      title: Languages
