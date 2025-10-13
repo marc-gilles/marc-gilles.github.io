@@ -110,13 +110,13 @@ skills:
     items:
       - name: Species identification
         description: ''
-        icon: 'unibielefeld.svg'
+        icon: star
       - name: Nest searching
         description: ''
-        icon: unibielefeld.svg
+        icon: star
       - name: Capture, ringing & sampling
         description: 'Mistnetting, morphometric measurements, blood sampling'
-        icon: unibielefeld
+        icon: star
   - name: Chemical analyses
     items:
       - name: Odour sampling
@@ -143,10 +143,10 @@ skills:
     items:
       - name: Scientific illustration
         description: 'Adobe Illustrator'
-        icon: pencil
+        icon: pencil-square
       - name: Blog writing
         description: ''
-        icon: pencil
+        icon: pencil-square
   - name: Project management
     items:
       - name: Planning of breeding monitoring
@@ -172,7 +172,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Travel grant
-    icon: beaker
+    #icon: currency-euro
     date: '2025-08-01'
     awarder: 💲 400€ · German Ornithological Society (DO-G)
   - title: Postdoctoral Scholarship
