@@ -156,17 +156,6 @@ skills:
         description: ''
         icon: pencil-square
 
-# Random trial
-peerreview:
-  - name: Editorship
-    items:
-      - name: Animal Behaviour
-        description: 'link'
-        icon: star
-  - name: Peer review
-    items:
-      - name: Many journals
-
 #languages:
 #  - name: English
 #    percent: 100
