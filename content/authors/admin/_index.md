@@ -125,8 +125,8 @@ skills:
       - name: Solvent extraction
         description: ''
         icon: beaker
-      - name: GC-MS & GC-FID
-        description: ''
+      - name: Gas chromatography
+        description: 'GC-MS, GC-FID'
         icon: beaker
   - name: Statistical analyses
     items:
@@ -139,14 +139,6 @@ skills:
       - name: Bayesian approaches
         description: ''
         icon: chart-bar-square
-  - name: Science communication
-    items:
-      - name: Scientific illustration
-        description: 'Adobe Illustrator'
-        icon: pencil-square
-      - name: Blog writing
-        description: ''
-        icon: pencil-square
   - name: Project management
     items:
       - name: Planning of breeding monitoring
@@ -155,6 +147,25 @@ skills:
       - name: Coordination of fieldwork in remote locations
         description: ''
         icon: calendar-days
+  - name: Science communication
+    items:
+      - name: Scientific illustration
+        description: 'Adobe Illustrator'
+        icon: pencil-square
+      - name: Blog writing
+        description: ''
+        icon: pencil-square
+
+# Random trial
+peerreview:
+  - name: Editorship
+    items:
+      - name: Animal Behaviour
+        description: 'link'
+        icon: star
+  - name: Peer review
+    items:
+      - name: Many journals
 
 #languages:
 #  - name: English
