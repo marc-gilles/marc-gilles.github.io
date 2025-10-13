@@ -172,7 +172,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Travel grant
-    icon: currency-dollar
+    icon: hero/academic-cap
     date: '2025-08-01'
     awarder: 400€ · German Ornithological Society (DO-G)
   - title: Postdoctoral Scholarship
