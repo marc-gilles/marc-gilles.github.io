@@ -18,6 +18,6 @@ sections:
         folders:
           - outreach
     design:
-      view: compact
+      view: article-grid
       columns: 1
 ---
