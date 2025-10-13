@@ -174,11 +174,11 @@ awards:
   - title: Travel grant
     #icon: hero/academic-cap
     date: '2025-08-01'
-    awarder: 💲 400€ · German Ornithological Society (DO-G)
+    awarder: 💰 400€ · German Ornithological Society (DO-G)
   - title: Postdoctoral Scholarship
     #icon: currency-euro
     date: '2024-03-01'
-    awarder: 💲 24000€ (12 months) · Bielefeld Young Researchers’ Fund
+    awarder: 💰 24000€ (12 months) · Bielefeld Young Researchers’ Fund
   - title: Best talk award
     #icon: trophy
     date: '2023-08-01'
@@ -186,7 +186,7 @@ awards:
   - title: PhD Scholarship
     #icon: currency-euro
     date: '2023-03-01'
-    awarder: 7500€ (6 months) · Bielefeld Young Researchers’ Fund
+    awarder: 💰 7500€ (6 months) · Bielefeld Young Researchers’ Fund
   - title: Best talk award
     #icon: trophy
     date: '2022-09-01'
@@ -194,7 +194,7 @@ awards:
   - title: Travel grant
     #icon: currency-euro
     date: '2022-07-01'
-    awarder: 💲 300€ · International Society of Behavioural Ecology (ISBE)
+    awarder: 💰 300€ · International Society of Behavioural Ecology (ISBE)
   - title: People's choice video award
     #icon: trophy
     date: '2021-01-01'
@@ -210,7 +210,7 @@ awards:
   - title: Traineeship Scholarship
     #icon: currency-euro
     date: '2018-01-01'
-    awarder: 💲 3600€ (6 months) · Erasmus+
+    awarder: 💰 3600€ (6 months) · Erasmus+
 
 ---
 
