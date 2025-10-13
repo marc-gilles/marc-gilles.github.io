@@ -181,21 +181,22 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best talk
+  - title: Best talk award
     url: 
     date: '2023-08-01'
     awarder: Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
-    icon: 
-  - title: Best talk
+  - title: Best talk award
     url: 
-    date: '2022-08-01'
+    date: '2022-09-01'
     awarder: DZG 2022 (German Zoological Society), Bonn, Germany
-    icon: 
-  - title: People's choice video
+  - title: People's choice video award
     url: 
-    date: '2021-08-01'
+    date: '2021-01-01'
     awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
-    icon: 
+  - title: Best talk • EthoGes 2020 
+    url: 
+    date: '2021-01-01'
+    awarder: German Ethological Society / Tübingen, Germany
 
 ---
 
