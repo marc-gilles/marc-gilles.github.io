@@ -5,7 +5,7 @@ tags:
   - Media
 ---
 
-I was interviewed to tell about our [study](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12837) published in *Biological Reviews* .
+I was interviewed to tell about our [study](https://onlinelibrary.wiley.com/doi/full/10.1111/brv.12837) published in *Biological Reviews*.
 
 <!--more-->
 
