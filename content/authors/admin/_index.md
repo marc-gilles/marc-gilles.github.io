@@ -121,7 +121,7 @@ skills:
   - name: Chemical analyses
     items:
       - name: Odour sampling
-        description: ''
+        description: 'Preen oil, whole-body'
         percent: 40
         icon: circle-stack
       - name: Solvent extraction
