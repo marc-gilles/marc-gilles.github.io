@@ -212,12 +212,6 @@ awards:
     date: '2018-01-01'
     awarder: 3600€ (6 months) · Erasmus+
 
-awards:
-  - title: Travel grant
-    icon: currency/euro
-    date: '2025-08-01'
-    awarder: 400€ · German Ornithological Society (DO-G)
-
 ---
 
 ## About Me
