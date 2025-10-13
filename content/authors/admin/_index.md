@@ -186,7 +186,7 @@ awards:
   - title: PhD Scholarship
     #icon: currency-euro
     date: '2023-03-01'
-    awarder: 💲 7500€ (6 months) · Bielefeld Young Researchers’ Fund
+    awarder: 💲7500€ (6 months) · Bielefeld Young Researchers’ Fund
   - title: Best talk award
     #icon: trophy
     date: '2022-09-01'
