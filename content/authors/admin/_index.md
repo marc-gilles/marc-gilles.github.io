@@ -132,7 +132,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-
   - name: Statistical analyses
     items:
       - name: Mutlivariate analyses
@@ -147,6 +146,26 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
+  - name: Science communication
+    items:
+      - name: Scientific illustration
+        description: 'Adobe Illustrator'
+        percent: 60
+        icon: chart-bar
+      - name: Blog writing
+        description: ''
+        percent: 60
+        icon: chart-bar
+  - name: Project management
+    items:
+      - name: Planning of breeding monitoring
+        description: ''
+        icon: chart-bar
+      - name: Coordination of fieldwork in remote locations
+        description: ''
+        percent: 60
+        icon: chart-bar
+
 
 #languages:
 #  - name: English
