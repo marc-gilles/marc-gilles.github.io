@@ -110,7 +110,7 @@ skills:
     items:
       - name: Species identification
         description: ''
-        icon: 'unibielefeld'
+        icon: 'unibielefeld.svg'
       - name: Nest searching
         description: ''
         icon: unibielefeld.svg
