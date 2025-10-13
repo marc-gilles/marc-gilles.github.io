@@ -121,7 +121,7 @@ skills:
     items:
       - name: Odour sampling
         description: 'Preen oil, whole-body'
-        icon: circle-stack
+        icon: beaker
       - name: Solvent extraction
         description: ''
         icon: chart-bar
