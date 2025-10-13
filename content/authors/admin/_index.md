@@ -154,7 +154,7 @@ skills:
         icon: chart-bar
       - name: Coordination of fieldwork in remote locations
         description: ''
-        icon: chart-bar
+        icon: chart-bar-square
 
 #languages:
 #  - name: English
