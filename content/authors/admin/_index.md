@@ -171,46 +171,46 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 💲 Travel grant
+  - title: Travel grant
     #icon: hero/academic-cap
     date: '2025-08-01'
-    awarder: 400€ · German Ornithological Society (DO-G)
-  - title: 💲 Postdoctoral Scholarship
+    awarder: 💲 400€ · German Ornithological Society (DO-G)
+  - title: Postdoctoral Scholarship
     #icon: currency-euro
     date: '2024-03-01'
-    awarder: 24000€ (12 months) · Bielefeld Young Researchers’ Fund
-  - title: 🏅 Best talk award
+    awarder: 💲 24000€ (12 months) · Bielefeld Young Researchers’ Fund
+  - title: Best talk award
     #icon: trophy
     date: '2023-08-01'
-    awarder: Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
-  - title: 💲 PhD Scholarship
+    awarder: 🏅 Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
+  - title: PhD Scholarship
     #icon: currency-euro
     date: '2023-03-01'
     awarder: 7500€ (6 months) · Bielefeld Young Researchers’ Fund
-  - title: 🏅 Best talk award
+  - title: Best talk award
     #icon: trophy
     date: '2022-09-01'
     awarder: 🏅 DZG 2022 (German Zoological Society), Bonn, Germany
   - title: Travel grant
     #icon: currency-euro
     date: '2022-07-01'
-    awarder: 300€ · International Society of Behavioural Ecology (ISBE)
-  - title: 🏅 People's choice video award
+    awarder: 💲 300€ · International Society of Behavioural Ecology (ISBE)
+  - title: People's choice video award
     #icon: trophy
     date: '2021-01-01'
-    awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
-  - title: 🏅 Best talk award
+    awarder: 🏅 ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
+  - title: Best talk award
     #icon: trophy
     date: '2020-02-01'
-    awarder: EthoGes 2020 (German Ethological Society), Tübingen, Germany
-  - title: 🏅 Best poster award
+    awarder: 🏅 EthoGes 2020 (German Ethological Society), Tübingen, Germany
+  - title: Best poster award
     #icon: trophy
     date: '2018-07-01'
-    awarder: International Student Course in Behavioural Biology 2018 (Institut Francilien d’Ethologie), Paris, France
-  - title: 💲 Traineeship Scholarship
+    awarder: 🏅 International Student Course in Behavioural Biology 2018 (Institut Francilien d’Ethologie), Paris, France
+  - title: Traineeship Scholarship
     #icon: currency-euro
     date: '2018-01-01'
-    awarder: 3600€ (6 months) · Erasmus+
+    awarder: 💲 3600€ (6 months) · Erasmus+
 
 ---
 
