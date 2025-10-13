@@ -132,13 +132,13 @@ skills:
     items:
       - name: Mutlivariate analyses
         description: 'PERMANOVA, RDA, PCA'
-        icon: chart-bar
+        icon: chart-bar-square
       - name: Mixed models
         description: ''
-        icon: chart-bar
+        icon: chart-bar-square
       - name: Bayesian approaches
         description: ''
-        icon: chart-bar
+        icon: chart-bar-square
   - name: Science communication
     items:
       - name: Scientific illustration
@@ -154,7 +154,7 @@ skills:
         icon: chart-bar
       - name: Coordination of fieldwork in remote locations
         description: ''
-        icon: chart-bar-square
+        icon: chart-bar
 
 #languages:
 #  - name: English
@@ -180,7 +180,7 @@ awards:
     date: '2024-03-01'
     awarder: 24000€ (12 months) · Bielefeld Young Researchers’ Fund
   - title: Best talk award
-    icon: hero-trophy
+    icon: trophy
     date: '2023-08-01'
     awarder: Behaviour 2023 (International Council of Ethologists), Bielefeld, Germany
   - title: PhD Scholarship
@@ -188,7 +188,7 @@ awards:
     date: '2023-03-01'
     awarder: 7500€ (6 months) · Bielefeld Young Researchers’ Fund
   - title: Best talk award
-    icon: hero-trophy
+    icon: trophy
     date: '2022-09-01'
     awarder: DZG 2022 (German Zoological Society), Bonn, Germany
   - title: Travel grant
@@ -196,15 +196,15 @@ awards:
     date: '2022-07-01'
     awarder: 300€ · International Society of Behavioural Ecology (ISBE)
   - title: People's choice video award
-    icon: hero-trophy
+    icon: trophy
     date: '2021-01-01'
     awarder: ASAB Twitter Conference 2021 (Association for the Study of Animal Behaviour)
   - title: Best talk award
-    icon: hero-trophy
+    icon: trophy
     date: '2020-02-01'
     awarder: EthoGes 2020 (German Ethological Society), Tübingen, Germany
   - title: Best talk award
-    icon: hero-trophy
+    icon: trophy
     date: '2018-07-01'
     awarder: International Student Course in Behavioural Biology 2018 (Institut Francilien d’Ethologie), Paris, France
   - title: Traineeship Scholarship
