@@ -124,10 +124,10 @@ skills:
         icon: beaker
       - name: Solvent extraction
         description: ''
-        icon: chart-bar
+        icon: beaker
       - name: GC-MS & GC-FID
         description: ''
-        icon: chart-bar
+        icon: beaker
   - name: Statistical analyses
     items:
       - name: Mutlivariate analyses
@@ -143,18 +143,18 @@ skills:
     items:
       - name: Scientific illustration
         description: 'Adobe Illustrator'
-        icon: chart-bar
+        icon: pencil
       - name: Blog writing
         description: ''
-        icon: chart-bar
+        icon: pencil
   - name: Project management
     items:
       - name: Planning of breeding monitoring
         description: ''
-        icon: chart-bar
+        icon: calendar-days
       - name: Coordination of fieldwork in remote locations
         description: ''
-        icon: chart-bar
+        icon: calendar-days
 
 #languages:
 #  - name: English
@@ -172,7 +172,7 @@ skills:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: Travel grant
-    icon: currency-euro
+    icon: currency-dollar
     date: '2025-08-01'
     awarder: 400€ · German Ornithological Society (DO-G)
   - title: Postdoctoral Scholarship
