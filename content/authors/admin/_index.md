@@ -147,15 +147,7 @@ skills:
       - name: Coordination of fieldwork in remote locations
         description: ''
         icon: calendar-days
-  - name: Science communication
-    items:
-      - name: Scientific illustration
-        description: 'Adobe Illustrator'
-        icon: pencil-square
-      - name: Blog writing
-        description: ''
-        icon: pencil-square
-
+        
 #languages:
 #  - name: English
 #    percent: 100
