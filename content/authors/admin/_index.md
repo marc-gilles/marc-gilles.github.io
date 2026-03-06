@@ -27,8 +27,8 @@ role: Postdoc in Behavioural Ecology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Bielefeld University, Germany
-    url: https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/
+  - name: University of Amsterdam, The Netherlands
+    url: https://ibed.uva.nl/content/research-departments/epb/epb.html
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
