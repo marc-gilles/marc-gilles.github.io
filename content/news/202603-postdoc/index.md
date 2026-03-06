@@ -4,7 +4,7 @@ date: 2026-03-01
 tags:
 ---
 
-I started a new postdoc in the lab of [Emily Burdfield-Steel](https://emilyburdfieldsteel.com/) at the [IBED](https://ibed.uva.nl/) at the University of Amsterdam!
+I started a new postdoc in the lab of [Emily Burdfield-Steel](https://emilyburdfieldsteel.com/) at the [IBED](https://ibed.uva.nl/) (University of Amsterdam)!
 
 <!--more-->
 
