@@ -81,7 +81,7 @@ work:
     date_start: 2025-03-01
     date_end: 2026-05-31
     summary: |
-      Project on decision making in great tits. Supervised by [Emily Burdfield-Steel](https://scholar.google.com/citations?user=TO6ocDYAAAAJ&hl=fr&oi=ao) at the [Department of Evolutionary & Population Biology](https://ibed.uva.nl/content/research-departments/epb/epb.html) at the Institute of Biodiversity and Ecoystem Dynamics (IBED) at the University of Amsterdam.
+      Project on decision making in great tits. Supervised by [Emily Burdfield-Steel](https://scholar.google.com/citations?user=TO6ocDYAAAAJ&hl=fr&oi=ao) at the [Department of Evolutionary & Population Biology](https://ibed.uva.nl/content/research-departments/epb/epb.html) at the Institute of Biodiversity and Ecoystem Dynamics (IBED) at the University of Amsterdam, in collaboration with [Johanna Mappes](https://scholar.google.com/citations?user=Fus_SqEAAAAJ&hl=en&oi=ao) at the University of Helsinki.
   - position: Postdoc • Bielefeld Young Researchers Fund Bridge Scholarship
     company_name: Bielefeld University, Germany
     company_url: 'https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/'
