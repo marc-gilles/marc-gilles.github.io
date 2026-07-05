@@ -55,7 +55,6 @@ interests:
   - Animal communication
   - Avian olfaction
   - Chemical Ecology
-  - Multivariate analyses
   - Ornithology
 
 education:
@@ -75,6 +74,14 @@ education:
     date_end: 2016-06-15
 
 work:
+  - position: Postdoc
+    company_name: University of Amsterdam, Netherlands
+    company_url: 'https://ibed.uva.nl/content/research-departments/epb/epb.html'
+    company_logo: ''
+    date_start: 2025-03-01
+    date_end: 2026-05-31
+    summary: |
+      Project on decision making in great tits. Supervised by [Emily Burdfield-Steel](https://scholar.google.com/citations?user=TO6ocDYAAAAJ&hl=fr&oi=ao) at the [Department of Evolutionary & Population Biology](https://ibed.uva.nl/content/research-departments/epb/epb.html) at the Institute of Biodiversity and Ecoystem Dynamics (IBED) at the University of Amsterdam.
   - position: Postdoc • Bielefeld Young Researchers Fund Bridge Scholarship
     company_name: Bielefeld University, Germany
     company_url: 'https://www.uni-bielefeld.de/fakultaeten/biologie/forschung/arbeitsgruppen/behav_eco/'
