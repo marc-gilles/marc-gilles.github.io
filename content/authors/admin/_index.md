@@ -216,4 +216,4 @@ awards:
 
 ## About Me
 
-I am a **behavioural ecologist** with a particular interest in **avian olfactory communication**. My research combines chemical analyses, multivariate statistics and behavioural experiments to investigate whether birds use odours in various contexts, such as mate choice, parent-offspring recognition, camouflage and predator deterrence.
+I am a **behavioural ecologist** investigating how birds communicate, make decisions, and use chemical cues to navigate their social and ecological environments.
