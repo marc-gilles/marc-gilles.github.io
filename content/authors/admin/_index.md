@@ -55,6 +55,7 @@ interests:
   - Animal communication
   - Avian olfaction
   - Chemical Ecology
+  - Cognition
   - Ornithology
 
 education:
@@ -118,22 +119,22 @@ skills:
       - name: Species identification
         description: ''
         icon: star
-      - name: Nest searching
+      - name: Behavioural trials
         description: ''
         icon: star
       - name: Capture, ringing & sampling
-        description: 'Mistnetting, morphometric measurements, blood sampling'
+        description: ''
         icon: star
   - name: Chemical analyses
     items:
       - name: Odour sampling
-        description: 'Preen oil, whole-body'
+        description: ''
         icon: beaker
       - name: Solvent extraction
         description: ''
         icon: beaker
       - name: Gas chromatography
-        description: 'GC-MS, GC-FID'
+        description: ''
         icon: beaker
   - name: Statistical analyses
     items:
