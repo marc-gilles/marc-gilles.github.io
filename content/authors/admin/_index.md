@@ -139,7 +139,7 @@ skills:
   - name: Statistical analyses
     items:
       - name: Mutlivariate analyses
-        description: 'PERMANOVA, RDA, PCA'
+        description: ''
         icon: chart-bar-square
       - name: Mixed models
         description: ''
