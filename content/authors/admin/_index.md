@@ -216,4 +216,4 @@ awards:
 
 ## About Me
 
-I am a **behavioural ecologist** investigating how birds make decisions and communicate, with a particular interest in the role of odours and olfaction.
+I am a **behavioural ecologist** investigating how **birds communicate** and **make decisions**, with a particular interest in the role of odours and olfaction.
